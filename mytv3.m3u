@@ -47,6 +47,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 https://epg.pw/stream/631167d465811fe2437e79eebbbc3501f4c35f3c70ca9bafd2af5b4366f66776.m3u8
 #EXTINF:-1 tvg-id="NHK E" tvg-name="NHK E" tvg-logo="https://live.fanmingming.com/tv/nhkworldp.png" group-title="央视",NHK E
 https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8
+#EXTINF:-1 tvg-id="NHK G" tvg-name="NHK G" tvg-logo="https://live.fanmingming.com/tv/nhkworldp.png" group-title="央视",NHK G
+https://epg.pw/stream/50e4b029016785fc46bb1e5880874755b93b69d03080b51491a647098bb09aae.m3u8
 #EXTINF:-1 tvg-id="TV TOKYO" tvg-name="TV TOKYO" tvg-logo="https://live.fanmingming.com/tv/SBN.png" group-title="央视",TV TOKYO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="大阪台" tvg-name="大阪台" tvg-logo="https://live.fanmingming.com/tv/nhkworldp.png" group-title="央视",大阪台
